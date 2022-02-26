@@ -1,0 +1,578 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[[H]ore diue virginis Marie.]</title>
+            <title>Liturgies. Hours. Salisbury</title>
+            <author>Catholic Church.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1506</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72620</idno>
+            <idno type="STC">STC 15904</idno>
+            <idno type="STC">ESTC S125256</idno>
+            <idno type="EEBO-CITATION">99898499</idno>
+            <idno type="PROQUEST">99898499</idno>
+            <idno type="VID">173434</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72620)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173434)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2043:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[[H]ore diue virginis Marie.]</title>
+                  <title>Liturgies. Hours. Salisbury</title>
+                  <author>Catholic Church.</author>
+               </titleStmt>
+               <extent>[4]+ leaves : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>A. verard,</publisher>
+                  <pubPlace>[Parisius :</pubPlace>
+                  <date>1506]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from STC; imprint from colophon.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Prayer-books and devotions --  Early works to 1800.</term>
+               <term>Books of hours --  Early works to 1800.</term>
+               <term>Primers (Prayer-books) --  Catholic Church --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <body>
+         <div type="liturgy">
+            <div n="1" type="fragment">
+               <div n="benedicite" type="canticle">
+                  <pb facs="tcp:173434:3"/>
+                  <!-- PDF PAGE 13 -->
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>Enedicite omnia opera dn<g ref="char:cmbAbbrStroke">̄</g>i dn<g ref="char:cmbAbbrStroke">̄</g>o laudate et ſuperexalta<g ref="char:EOLhyphen"/>te eu<g ref="char:cmbAbbrStroke">̄</g> in ſcla<g ref="char:cmbAbbrStroke">̄</g>.</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enedicte a<g ref="char:cmbAbbrStroke">̄</g>geli dn<g ref="char:cmbAbbrStroke">̄</g>i dn<g ref="char:cmbAbbrStroke">̄</g>o benedicite celi dn<g ref="char:cmbAbbrStroke">̄</g>o.</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:cmbAbbrStroke">̄</g>dicite aque oe<g ref="char:cmbAbbrStroke">̄</g>s que ſuper celos ſunt dn<g ref="char:cmbAbbrStroke">̄</g>o bn<g ref="char:cmbAbbrStroke">̄</g>dicite oe<g ref="char:cmbAbbrStroke">̄</g>s virtutes dn<g ref="char:cmbAbbrStroke">̄</g>i <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLunhyphen"/>dicite ſol et luna dn<g ref="char:cmbAbbrStroke">̄</g>o bn<g ref="char:cmbAbbrStroke">̄</g>dicite ſtel<g ref="char:EOLhyphen"/>le celi dn<g ref="char:cmbAbbrStroke">̄</g>o</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:cmbAbbrStroke">̄</g>dicite ymber <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ros dn<g ref="char:cmbAbbrStroke">̄</g>o. bn<g ref="char:cmbAbbrStroke">̄</g>dicite omnis ſpu<g ref="char:cmbAbbrStroke">̄</g>s de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dn<g ref="char:cmbAbbrStroke">̄</g>o</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:cmbAbbrStroke">̄</g>dicite ignis &amp; eſtus dn<g ref="char:cmbAbbrStroke">̄</g>o. bn<g ref="char:cmbAbbrStroke">̄</g>dicite frigus et eſtas dn<g ref="char:cmbAbbrStroke">̄</g>o</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:cmbAbbrStroke">̄</g>dicite rores et pruina dn<g ref="char:cmbAbbrStroke">̄</g>o. benedicite gelu et frigus dn<g ref="char:cmbAbbrStroke">̄</g>o</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:cmbAbbrStroke">̄</g>dicite glaci<g ref="char:EOLhyphen"/>es et niues dn<g ref="char:cmbAbbrStroke">̄</g>o benedicite noctes et dies dn<g ref="char:cmbAbbrStroke">̄</g>o</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:cmbAbbrStroke">̄</g>dicite lux &amp; tenebre dn<g ref="char:cmbAbbrStroke">̄</g>o, benedicite fulgara et nubes domino</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:cmbAbbrStroke">̄</g>dicat terra dn<g ref="char:cmbAbbrStroke">̄</g>m. lau<g ref="char:EOLhyphen"/>det &amp; ſuperexaltet eu<g ref="char:cmbAbbrStroke">̄</g> in ſecula</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:cmbAbbrStroke">̄</g>cite mo<g ref="char:cmbAbbrStroke">̄</g>tes et colles dn<g ref="char:cmbAbbrStroke">̄</g>o. bn<g ref="char:cmbAbbrStroke">̄</g>dicite vniuerſa germina<g ref="char:cmbAbbrStroke">̄</g>tia i<g ref="char:cmbAbbrStroke">̄</g> terra dn<g ref="char:cmbAbbrStroke">̄</g>o</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enedicite fontes dn<g ref="char:cmbAbbrStroke">̄</g>o benedicite maria &amp; flumina dn<g ref="char:cmbAbbrStroke">̄</g>o</p>
+                  <figure>
+                     <figDesc>decorative border with biblical scenes</figDesc>
+                     <q>Et baiula<g ref="char:cmbAbbrStroke">̄</g>s ſibi cruce<g ref="char:cmbAbbrStroke">̄</g> exiuit in eu<g ref="char:cmbAbbrStroke">̄</g> q<hi rend="sup">i</hi> dr<g ref="char:cmbAbbrStroke">̄</g> calua. locu<g ref="char:cmbAbbrStroke">̄</g>. <bibl>Ioh. xix.</bibl>
+                     </q>
+                     <q>tulit quo<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ligna holocau<g ref="char:EOLhyphen"/>ſti &amp; i<g ref="char:cmbAbbrStroke">̄</g>poſuit. &amp;c.</q>
+                  </figure>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:cmbAbbrStroke">̄</g>dicite oe<g ref="char:cmbAbbrStroke">̄</g>s beſtie et peco<g ref="char:EOLhyphen"/>ra dn<g ref="char:cmbAbbrStroke">̄</g>i bn<g ref="char:cmbAbbrStroke">̄</g>dicite filii hoi<g ref="char:cmbAbbrStroke">̄</g>m domino</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:cmbAbbrStroke">̄</g>dicat iſrael dn<g ref="char:cmbAbbrStroke">̄</g>m: laudet et ſuꝑexaltete in ſecula</p>
+                  <p>Benedicite ſa<g ref="char:EOLhyphen"/>cerd<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> dn<g ref="char:cmbAbbrStroke">̄</g>i domi<g ref="char:cmbAbbrStroke">̄</g>o: bn<g ref="char:cmbAbbrStroke">̄</g>dicite ſerui dn<g ref="char:cmbAbbrStroke">̄</g>i d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>i<g ref="char:cmbAbbrStroke">̄</g>o</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:cmbAbbrStroke">̄</g>dicite ſpiritus &amp; anime i<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>oru<g ref="char:cmbAbbrStroke">̄</g> domi<g ref="char:cmbAbbrStroke">̄</g>o: benedicite ſa<g ref="char:cmbAbbrStroke">̄</g>cti et humiles corde dn<g ref="char:cmbAbbrStroke">̄</g>o</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enedicite anania azaria miſael dn<g ref="char:cmbAbbrStroke">̄</g>o: lauda<g ref="char:EOLhyphen"/>te &amp; ſuperexaltate eum in ſecula</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:cmbAbbrStroke">̄</g>dicamus patrem et filiu<g ref="char:cmbAbbrStroke">̄</g> cum ſancto ſpiritu. laudemus et ſuper<g ref="char:EOLhyphen"/>exaltemus eum in ſecula.</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enedi<g ref="char:EOLunhyphen"/>ctus es domine in firmamento ce<g ref="char:EOLhyphen"/>li et laudabilis &amp; glorioſus &amp; ſuper exaltatus in ſecula. Amen.</p>
+               </div>
+               <div n="148 (Vulg.)" type="Psalm">
+                  <head>p<g ref="char:cmbAbbrStroke">̄</g>s</head>
+                  <p>LAudate dn<g ref="char:cmbAbbrStroke">̄</g>m de celis: laudate eum in excelſis:</p>
+                  <p>Laudate eum omnes angeli eius: laudate eum omnes virtutes eius</p>
+                  <p>Lau<g ref="char:EOLhyphen"/>date eum ſol et luna. laudate eum omnes ſtelle et lumen.</p>
+                  <figure>
+                     <figDesc>decorative border with biblical scenes</figDesc>
+                     <q>Tulerunt illu<g ref="char:cmbAbbrStroke">̄</g> i<g ref="char:cmbAbbrStroke">̄</g> hierlm<g ref="char:cmbAbbrStroke">̄</g> vt ſiſte<g ref="char:EOLhyphen"/>re<g ref="char:cmbAbbrStroke">̄</g>t eu<g ref="char:cmbAbbrStroke">̄</g> dn<g ref="char:cmbAbbrStroke">̄</g>o ſicut ſcriptu<g ref="char:cmbAbbrStroke">̄</g> e<g ref="char:cmbAbbrStroke">̄</g>. <bibl>Lu. 2</bibl>
+                     </q>
+                     <q>Sctifica michi oe<g ref="char:cmbAbbrStroke">̄</g> 
+                        <expan>
+                           <am>
+                              <g ref="char:abpri"/>
+                           </am>
+                           <ex>pri</ex>
+                        </expan>mogenitum quod aꝑit. &amp;c.</q>
+                  </figure>
+                  <p>laudent nomen domi<g ref="char:EOLhyphen"/>ni <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uia ipſe dixit et facta ſunt ipſe mandauit et creata ſunt</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tatuit ea in eternum et in ſeculum ſeculi preceptum poſuit et non preteribit</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>audate dominum de terra tra<g ref="char:EOLhyphen"/>chones et ome<g ref="char:cmbAbbrStroke">̄</g>s abyſſi</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gnis gra<g ref="char:cmbAbbrStroke">̄</g>do nix glacies ſpiritus procellaru<g ref="char:cmbAbbrStroke">̄</g> que faciunt verbum eius.</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on<g ref="char:EOLhyphen"/>tes &amp; ome<g ref="char:cmbAbbrStroke">̄</g>s colles ligna fructifera et omnes cedri.</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſtie et vniuerſa pecora: ſerpentes et volucres pen<g ref="char:EOLhyphen"/>nate</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eges terre et omnes populi pri<g ref="char:cmbAbbrStroke">̄</g>cipes et ome<g ref="char:cmbAbbrStroke">̄</g>s iudices terre.</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uuenes et virgines ſenes cum iuni<g ref="char:EOLhyphen"/>oribus laude<g ref="char:cmbAbbrStroke">̄</g>t nome<g ref="char:cmbAbbrStroke">̄</g> domini:</p>
+                  <p>quia exaltatum eſt nomen eius ſolius.</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onfeſſio eius ſuper celum et terram: et exaltauit cornu populi ſui.</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ymnus omnibus ſanctis eiꝰ fi<g ref="char:EOLhyphen"/>liis iſrael populo appropinquan<g ref="char:EOLhyphen"/>ti ſibi</p>
+                  <figure>
+                     <figDesc>decorative border</figDesc>
+                  </figure>
+               </div>
+               <div n="149 (Vulg.)" type="Psalm">
+                  <head>Pſalmus</head>
+                  <pb facs="tcp:173434:3"/>
+                  <!-- PDF PAGE 15 -->
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>Antate domino ca<g ref="char:cmbAbbrStroke">̄</g>ticum no<g ref="char:EOLhyphen"/>uum: laus eiꝰ in eccleſia ſcto<g ref="char:cmbAbbrStroke">̄</g>rum.</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>etetur iſrael in eo qui fecit eum: et filie ſyon exultent in rege ſuo</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>audent nomen eius in choro in tympano et pſalterio pſalla<g ref="char:cmbAbbrStroke">̄</g>t ei</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uia beneplacitum eſt domi<g ref="char:cmbAbbrStroke">̄</g>o in populo ſuo: et exaltauit ma<g ref="char:cmbAbbrStroke">̄</g>ſuetos in ſalutem.</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xultabunt ſancti in gloria: letabuntur in cubilibus ſuis</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xultationes dei in gutture eorum: et gladii ancipites in mani<g ref="char:EOLhyphen"/>bus eoru<g ref="char:cmbAbbrStroke">̄</g>
+                  </p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d faciendam vindicta<g ref="char:cmbAbbrStroke">̄</g> in nationibus i<g ref="char:cmbAbbrStroke">̄</g>crepationes in populis</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d alliga<g ref="char:cmbAbbrStroke">̄</g>dos reges eorum in compedibus et nobiles eorum in manicis ferreis</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tfacianti<g ref="char:cmbAbbrStroke">̄</g> eis iudiciu<g ref="char:cmbAbbrStroke">̄</g> conſcriptum gloria hec eſt oi<g ref="char:cmbAbbrStroke">̄</g>bus ſanctis eius</p>
+               </div>
+               <div n="150 (Vulg.)" type="Psalm">
+                  <head>Pſalmus</head>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>Audate dominum i<g ref="char:cmbAbbrStroke">̄</g> ſanctis eius: laudate eum in firma<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>to virtutis eius</p>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>audate eum in virtutibus eius: laudate eum ſe</p>
+                  <figure>
+                     <figDesc>decorative border with biblical scenes</figDesc>
+                     <q>Tulerunt illu<g ref="char:cmbAbbrStroke">̄</g> i<g ref="char:cmbAbbrStroke">̄</g> hierlm<g ref="char:cmbAbbrStroke">̄</g> vt ſiſte<g ref="char:EOLhyphen"/>re<g ref="char:cmbAbbrStroke">̄</g>t eu<g ref="char:cmbAbbrStroke">̄</g> dn<g ref="char:cmbAbbrStroke">̄</g>o ſicut ſcriptu<g ref="char:cmbAbbrStroke">̄</g> e<g ref="char:cmbAbbrStroke">̄</g>. <bibl>Lu. 2</bibl>
+                     </q>
+                     <q>Sctifica michi oe<g ref="char:cmbAbbrStroke">̄</g> 
+                        <expan>
+                           <am>
+                              <g ref="char:abpri"/>
+                           </am>
+                           <ex>pri</ex>
+                        </expan>mogeni<g ref="char:EOLunhyphen"/>tum quod aꝑit. &amp;c.</q>
+                  </figure>
+               </div>
+            </div>
+            <div n="2" type="fragment__office_of_the_Virgin">
+               <div type="part">
+                  <pb facs="tcp:173434:3"/>
+                  <!-- PDF PAGE 15 -->
+                  <p>que<g ref="char:cmbAbbrStroke">̄</g> celi. Iube dn<g ref="char:cmbAbbrStroke">̄</g>e bn<g ref="char:cmbAbbrStroke">̄</g>dicere. Oret mente pia pro nobis virgo maria.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div n="2" type="lesson">
+                  <head>Lectio ſecunda</head>
+                  <p>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>Ancta maria piaru<g ref="char:cmbAbbrStroke">̄</g> piiſſima intercede pro nobis ſanctaru<g ref="char:cmbAbbrStroke">̄</g> ſanctiſſima: per te virgo glorioſa noſtra ſumat precamina qui ꝓ no<g ref="char:EOLhyphen"/>bis extenatus regnat ſuper ethe<g ref="char:EOLhyphen"/>ra: vt ſua caritate noſtra delea<g ref="char:cmbAbbrStroke">̄</g>tur precami<g ref="char:cmbAbbrStroke">̄</g>a. Tu autem domine.</p>
+                  <p>℟. Beata es maria que dominu<g ref="char:cmbAbbrStroke">̄</g> por<g ref="char:EOLhyphen"/>taſti creatorem mu<g ref="char:cmbAbbrStroke">̄</g>di: genuiſti qui te fecit et in eternum perinanes virgo.</p>
+                  <p>℣. Aue maria gratia plena do<g ref="char:EOLhyphen"/>minus tecum. Genuiſti qui te fe<g ref="char:EOLhyphen"/>cit et in eternum.</p>
+                  <p>Iube domine benedicere.</p>
+                  <p>Sa<g ref="char:cmbAbbrStroke">̄</g>cta dei genitrix ſit nobis auxiliatrix</p>
+                  <closer>Ame<g ref="char:cmbAbbrStroke">̄</g>
+                  </closer>
+               </div>
+               <div n="3" type="lesson">
+                  <head>Lectio. iii</head>
+                  <figure>
+                     <figDesc>decorative border with biblical scenes</figDesc>
+                     <q>Poſuit eum i<g ref="char:cmbAbbrStroke">̄</g> monume<g ref="char:cmbAbbrStroke">̄</g>to ex<g ref="char:EOLunhyphen"/>ciſo i<g ref="char:cmbAbbrStroke">̄</g> quo nondu<g ref="char:cmbAbbrStroke">̄</g> &amp;c. <bibl>Lu. xxii.</bibl>
+                     </q>
+                     <q>Nudaueru<g ref="char:cmbAbbrStroke">̄</g>t eu<g ref="char:cmbAbbrStroke">̄</g> tunicas ta<g ref="char:EOLunhyphen"/>lari &amp; po<g ref="char:EOLunhyphen"/>limita <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </q>
+                  </figure>
+                  <p>℟. Felix na<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>
+                     <expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> es ſacra virgo maria et omi<g ref="char:cmbAbbrStroke">̄</g> lau<g ref="char:EOLunhyphen"/>de digniſſima. Quia ex te ortus eſt ſol iuſticie chriſtus deus noſter.</p>
+                  <p>℣ꝰ Ora pro populo interueni pro cle<g ref="char:EOLhyphen"/>ro intercede pro deuoto femineo ſe<g ref="char:EOLunhyphen"/>xu: ſentiant omnes tuum Ieuame<g ref="char:cmbAbbrStroke">̄</g> quicun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> celebrant tuam comme<g ref="char:EOLhyphen"/>morationem. Quia ex te ortus eſt ſol iuſticie chriſtus deꝰ noſter. Glo<g ref="char:EOLunhyphen"/>ria patri et filio et ſpiritui ſancto. Chriſtus deus noſter. Felix nam<g ref="char:EOLhyphen"/>
+                     <expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> es ſacra virgo maria.</p>
+               </div>
+               <div n="Te Deum" type="hymn">
+                  <head>Canticum ſanctorum ambroſii et auguſtini.</head>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>E deum laud<g ref="char:EOLunhyphen"/>amus: te domi<g ref="char:EOLunhyphen"/>num confitemur.</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e eter<g ref="char:EOLhyphen"/>num patrem omnis terra venera<g ref="char:EOLhyphen"/>tur</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ib<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> omnes angeli tibi celi et vniue<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>eeſtates</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ibi cherubi<g ref="char:cmbAbbrStroke">̄</g>
+                  </l>
+                  <figure>
+                     <figDesc>decorative border with biblical scenes</figDesc>
+                     <q>Et mitte<g ref="char:cmbAbbrStroke">̄</g>tes oc<g ref="char:EOLunhyphen"/>cidit om<g ref="char:cmbAbbrStroke">̄</g>es pue<g ref="char:EOLunhyphen"/>ros q<hi rend="sup">i</hi> erant in betbleem. &amp;c. <bibl>Ma. ii.</bibl>
+                     </q>
+                     <q>Co<g ref="char:cmbAbbrStroke">̄</g>uerti <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </q>
+                  </figure>
+                  <pb facs="tcp:173434:1"/>
+                  <l><!-- PDF PAGE 16 -->et ſeraphin inceſſabili voce procla<g ref="char:EOLunhyphen"/>mant</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anctus <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anctus <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an<g ref="char:EOLhyphen"/>ctus dn<g ref="char:cmbAbbrStroke">̄</g>s deus ſabaoth</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>leni ſunt celi et terra maieſtatis glorie tue.</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e glorioſus apoſtolorum cho<g ref="char:EOLhyphen"/>rus</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e ꝓphetaru<g ref="char:cmbAbbrStroke">̄</g> laudabilis nu<g ref="char:EOLunhyphen"/>merus</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e martyru<g ref="char:cmbAbbrStroke">̄</g> ca<g ref="char:cmbAbbrStroke">̄</g>didatꝰ lau<g ref="char:EOLunhyphen"/>dat exercitus</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e per orbem terra<g ref="char:EOLhyphen"/>ru<g ref="char:cmbAbbrStroke">̄</g> ſancta confitetur eccleſia</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<g ref="char:EOLhyphen"/>tre<g ref="char:cmbAbbrStroke">̄</g> imme<g ref="char:cmbAbbrStroke">̄</g>ſe maieſtatis</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eneran<g ref="char:EOLhyphen"/>du<g ref="char:cmbAbbrStroke">̄</g> tuu<g ref="char:cmbAbbrStroke">̄</g> veru<g ref="char:cmbAbbrStroke">̄</g> et vnicu<g ref="char:cmbAbbrStroke">̄</g> filiu<g ref="char:cmbAbbrStroke">̄</g>
+                  </l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an<g ref="char:EOLhyphen"/>ctu<g ref="char:cmbAbbrStroke">̄</g> quo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> paraclitum ſp<g ref="char:cmbAbbrStroke">̄</g>m</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u rex glorie xp<g ref="char:cmbAbbrStroke">̄</g>e</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u patris ſempiternus es filius</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u ad liberandum ſuſce<g ref="char:EOLunhyphen"/>pturus hoi<g ref="char:cmbAbbrStroke">̄</g>em non horruiſti virgi<g ref="char:EOLunhyphen"/>nis vteru<g ref="char:cmbAbbrStroke">̄</g>
+                  </l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u deuicto mortis acu<g ref="char:EOLunhyphen"/>leo aperuiſti credentibus regna ce<g ref="char:EOLunhyphen"/>loru<g ref="char:cmbAbbrStroke">̄</g>
+                  </l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u ad dextera<g ref="char:cmbAbbrStroke">̄</g> dei ſedes i<g ref="char:cmbAbbrStroke">̄</g> glo<g ref="char:EOLunhyphen"/>ria patris</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>udex crederis eſſe ve<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLunhyphen"/>turus</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e ergo queſumus famu<g ref="char:EOLhyphen"/>lis tuis ſubueni quos precioſo ſan<g ref="char:EOLunhyphen"/>guine redemiſti</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>terna fac cum ſanctis tuis in gloria numerari</l>
+                  <figure>
+                     <figDesc>decorative border with biblical scenes</figDesc>
+                     <q>Baptiſatꝰ au<g ref="char:cmbAbbrStroke">̄</g>t ieſꝰ ꝯfeſti<g ref="char:cmbAbbrStroke">̄</g> aſce<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLunhyphen"/>dit de aqua | et ecce aꝑti ſ u<g ref="char:cmbAbbrStroke">̄</g>t ce<g ref="char:EOLunhyphen"/>li. <bibl>ma. 3</bibl>
+                     </q>
+                     <q>Abſconder<g ref="char:cmbAbbrStroke">̄</g>t pal<g ref="char:EOLunhyphen"/>mite<g ref="char:cmbAbbrStroke">̄</g> cum vua ſua.</q>
+                  </figure>
+                  <pb facs="tcp:173434:3"/>
+                  <!-- PDF PAGE 17 -->
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aluum fac populum tuu<g ref="char:cmbAbbrStroke">̄</g> domi<g ref="char:EOLunhyphen"/>ne et benedic hereditati tue</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t re<g ref="char:EOLhyphen"/>ge eos. et extolle eos vſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> in eternu<g ref="char:cmbAbbrStroke">̄</g>
+                  </l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er ſingulos dies benedicimus te</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t laudamus nome<g ref="char:cmbAbbrStroke">̄</g> tuu<g ref="char:cmbAbbrStroke">̄</g> in ſe<g ref="char:EOLhyphen"/>culu<g ref="char:cmbAbbrStroke">̄</g>. et in ſeculu<g ref="char:cmbAbbrStroke">̄</g> ſeculi.</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ignare dn<g ref="char:cmbAbbrStroke">̄</g>e die iſto ſine peccato nos cuſto<g ref="char:EOLunhyphen"/>dire</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſerere noſtri dn<g ref="char:cmbAbbrStroke">̄</g>e: miſerere noſtri</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iat mi<g ref="char:cmbAbbrStroke">̄</g>a tua dn<g ref="char:cmbAbbrStroke">̄</g>e ſuꝑ nos que<g ref="char:cmbAbbrStroke">̄</g>admodum ſperauimus in te.</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n te domine ſperaui: no<g ref="char:cmbAbbrStroke">̄</g> confundar in eternu<g ref="char:cmbAbbrStroke">̄</g>.</l>
+                  <p>℣. Ora pro nobis ſa<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLunhyphen"/>cta dei genitrix.</p>
+                  <p>℟. Vt digni effi<g ref="char:EOLhyphen"/>ciamur promiſſionibus chriſti.</p>
+                  <stage>Ad laudes.</stage>
+                  <figure>
+                     <figDesc>decorative border with biblical scenes</figDesc>
+                     <q>Vnꝰ militu<g ref="char:cmbAbbrStroke">̄</g> lan<g ref="char:EOLhyphen"/>cea latꝰ eiꝰ ape<g ref="char:EOLhyphen"/>ruit &amp; ꝯtinuo exi<g ref="char:EOLunhyphen"/>uit ſanguis. &amp;c.</q>
+                     <q>tulit vna<g ref="char:cmbAbbrStroke">̄</g> de coſtis eiꝰ &amp; re<g ref="char:EOLhyphen"/>pleuit car<g ref="char:EOLunhyphen"/>ne<g ref="char:cmbAbbrStroke">̄</g>. <bibl>ge. ii.</bibl>
+                     </q>
+                  </figure>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
